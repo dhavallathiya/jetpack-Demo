@@ -1,4 +1,4 @@
-#  ** 📱 Basic Calculator App (Jetpack Compose)**
+#  📱 Basic Calculator App (Jetpack Compose)
 
 A simple Basic Calculator App built using Jetpack Compose, designed to perform basic arithmetic operations like addition, subtraction, multiplication, and division. This is my first project using Jetpack Compose, focusing on clean UI and simple functionality.
 
